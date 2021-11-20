@@ -4,15 +4,8 @@ Windows Plus is a Windows 10 bootleg that improves windows in many ways. Windows
 
 > Not all features are implemented yet
 
- - Added support for  different file extensions:
-   .mui - resource table
-   .log1 - log
-   .log2 - log
-   .dat - data file
-   .bin - binary image
-   .run - exe
-   .app - exe
+ - Added support for  different file extensions: .mui, .bin, .log1, .log2, .run, .app
    
-- Windows Plus text on boot screen
+- Windows Plus text on boot menu
 - Custom folder icons in `C:\Windows\System32\fldicon.dll`
 - `Imageres.dll` replaced with Windows 11 style icons
